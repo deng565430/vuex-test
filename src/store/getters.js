@@ -1,0 +1,1 @@
+export const addNum = state => state.addNum
